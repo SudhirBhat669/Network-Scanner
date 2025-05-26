@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Network Scanner",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/network_scanner_dashboard.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "env": {
+        "EMAIL_USER": "your_email@gmail.com",
+        "EMAIL_PASS": "your_app_password"
+      }
+
+    }
+  ]
+}
