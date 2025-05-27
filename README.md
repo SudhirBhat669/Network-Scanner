@@ -67,7 +67,7 @@ Start Scheduled Scans	Starts background daily scans + ML + alerts.
 Alerts will be sent when ML detects anomalies. Uses smtplib via Gmail SMTP with SSL.
 Make sure your email provider supports third-party SMTP or generate an app password.
 
-# Interview Questions & Answers
+# Interview Questions 
 Q1. What is the purpose of this project?
 Q2. How is ML used in this project?
 Q3. What does the TCP SYN scan do?
